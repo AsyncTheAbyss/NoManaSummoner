@@ -1,6 +1,6 @@
 displayName = No Mana Summoner
 author = Async Void
-version = 0.1.1
+version = 0.1.2
 homepage = https://github.com/AsyncTheAbyss/NoManaSummoner/
 hideCode = false
 hideResources = false
