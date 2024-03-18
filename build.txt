@@ -1,7 +1,7 @@
 displayName = No Mana Summoner
 author = Async Void
 version = 0.1.1
-homepage = https://tmodloader.net/
+homepage = https://github.com/AsyncTheAbyss/NoManaSummoner/
 hideCode = false
 hideResources = false
 includeSource = true
