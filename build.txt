@@ -1,0 +1,8 @@
+displayName = No Mana Summoner
+author = Async Void
+version = 0.1.1
+homepage = https://tmodloader.net/
+hideCode = false
+hideResources = false
+includeSource = true
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*, Old\*, .vscode\*, .git\*
